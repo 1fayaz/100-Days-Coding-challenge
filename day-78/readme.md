@@ -1,9 +1,7 @@
-# Day-79 of `100-Days-Of-Code` Challenge
+# Day-78 of `100-Days-Of-Code` Challenge
 
-**Day-79 Task:**
+**Day-78 Task:**
 
-Read the following Articles with interactive video about Basics of Authentication and HTTP Basic Authentication.
+Read and understand the following Visual Guide about the Web Vitals.
 
-[Basics of Authentication](https://roadmap.sh/guides/basics-of-authentication)
-
-[HTTP Basic Authentication](https://roadmap.sh/guides/http-basic-authentication)
+[What are Web Vitals?](https://roadmap.sh/guides/what-are-web-vitals)
